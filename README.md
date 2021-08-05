@@ -3,4 +3,4 @@
 <h2> Hi again =) </h>
 
 
-<p> Well, This folder is just for practice, tests, whatever, just for practice, training to follow my own evolution in languages and programming </p>
+<p> Well this folder is just for practice, training to follow my own evolution in languages and programming </p>
